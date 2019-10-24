@@ -1,0 +1,30 @@
+body {
+  background-color: #ecfcff;
+  text-align: center;
+}
+
+h1 {
+  color: #3e64ff;
+
+}
+
+h3 {
+  color: #3e64ff;
+
+}
+
+hr {
+  border-style: none none dotted none;
+  border-bottom-width: 7px;
+  border-color: #e8e8e8;
+  height: 2px;
+  width: 5%;
+}
+
+td {
+  text-align: center;
+}
+
+img {
+  height: 100px;
+}
